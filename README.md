@@ -1,2 +1,2 @@
-# RockPaperSeasorGame
-Rock Paper Seasor Game using python in this py project random module is used
+# python source code of Rock Paper Scissors Game
+In this py project random module is used
